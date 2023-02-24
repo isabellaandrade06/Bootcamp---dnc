@@ -293,5 +293,13 @@ body {
         font-size: 17px;
     }
 
-    
+    /*Footer*/
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    .endereco{
+        width: 95%;
+    }
 }
